@@ -1,0 +1,38 @@
+.footer{
+    animation-name:one;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    font-size:25px;
+}
+@keyframes one{
+    from{background-color:red;}
+    to{background-color:greenyellow;}
+}
+.footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    
+    line-height:3;
+    text-align:center;
+}
+
+
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size:15px;
+    color:black;
+}
+#font_size{
+    background-color: teal
+    ;
+    color:black;
+}
